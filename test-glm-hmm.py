@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Mar 31 11:19:36 2022
-
 @author: jthompsz
 """
 
@@ -178,4 +177,3 @@ plt.yticks([])
 plt.xlabel("time")
 
 fig.savefig('most_likely_states.png', dpi=300)
-
